@@ -10,4 +10,5 @@ lbl.grid(column=0, row=0)
 
 window.geometry('350x200')
 
+
 window.mainloop()
